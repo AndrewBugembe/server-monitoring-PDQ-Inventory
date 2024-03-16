@@ -33,7 +33,7 @@ This project showcases the installation and utilization of PDQ Inventory in an e
 <h2>Steps</h2>
 
 - Configure Active Directory; create a domain controller and add a user server
-- Download PDQ Inventory: Download the latest version of PDQ Inventory from the official website.
+- Download PDQ Inventory.
 - Install PDQ Inventory: Run the installer on the domain controller and follow the installation prompts.
 - Configure Initial Settings: After installation, open PDQ Inventory and configure initial settings such as network discovery to recognize the domain-joined computer
   - Discover Domain Computers: Use PDQ Inventory's network discovery feature to find and add the domain-joined computer
@@ -59,7 +59,7 @@ Configure Active Directory; create a domain controller and add a user server.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install PDQ DEPLOY on the domain controller.
+Download and install PDQ Inventory on the domain controller.
 </p>
 <br />
 
@@ -67,7 +67,7 @@ Install PDQ DEPLOY on the domain controller.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure PDQ DEPLOY: Check the PDQ Deploy Package Library for a prebuilt package.
+Configure Initial Settings: After installation, open PDQ Inventory and configure initial settings such as network discovery to recognize the domain-joined computer.
 </p>
 <br />
 
@@ -75,7 +75,7 @@ Configure PDQ DEPLOY: Check the PDQ Deploy Package Library for a prebuilt packag
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure PDQ DEPLOY: Deploy the package to the targeted computers.
+Discover Domain Computers: Use PDQ Inventory's network discovery feature to find and add the domain-joined computer.
 </p>
 <br />
 
@@ -83,7 +83,7 @@ Configure PDQ DEPLOY: Deploy the package to the targeted computers.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a custom deployment package: Download required software onto the DC server.
+Access Computer Details: Click on the added computer's name to view detailed inventory information.
 </p>
 <br />
 
@@ -91,7 +91,9 @@ Create a custom deployment package: Download required software onto the DC serve
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a custom deployment package: Check the PDQ Deploy Package Library to select the package and targeted computers, deploy package.
+Running Tools and Commands: Open Tools Menu: Right-click on the computer and navigate to 'Tools',
+Select 'Run Command', 
+In the command line field, type ipconfig /all and press 'Run'
 </p>
 <br />
 
