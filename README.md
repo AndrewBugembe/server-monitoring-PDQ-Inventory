@@ -5,18 +5,18 @@
 This project showcases the installation and utilization of PDQ Inventory in an existing Active Directory domain controller with one added computer. The purpose is to demonstrate the capabilities of PDQ Inventory in managing and monitoring hardware and software assets within a networked environment.
 
 ## Use Case
-- PDQ Deploy allows you to deploy new software to end-user computers. This is especially valuable when working remotely, as it streamlines the installation process.
+- PDQ Inventory is used for centralized management and monitoring of hardware and software assets in a networked environment, primarily within organizations. It automates the task of inventory tracking, making it easier for IT administrators to gather detailed information about every computer within a network. Key features include.
 
 ## Challenges
-- **Customization**: Administrators must handle user context installations effectively.
-- **Maintenance**: Misconfigured settings may cause deployments to hang.
+- Users need to configure it to accurately discover and communicate with all networked devices, which can be challenging, especially when dealing with different operating systems, network segments, or firewall configurations..
+- PDQ Inventory's effectiveness is heavily reliant on stable network connectivity and proper network configuration.
 
 <br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to deploy software remotely using PDQ DEPLOY](https://youtu.be/LGjsXd10vxc)
+- ### [YouTube: How to configure and use PDQ INVENTORY to monitor servers(https://youtu.be/LGjsXd10vxc)
 
 <h2>Environments and Technologies Used</h2>
 
