@@ -37,8 +37,13 @@ This project showcases the installation and utilization of PDQ Inventory in an e
 - Install PDQ Inventory: Run the installer on the domain controller and follow the installation prompts.
 - Configure Initial Settings: After installation, open PDQ Inventory and configure initial settings such as network discovery to recognize the domain-joined computer
   - Discover Domain Computers: Use PDQ Inventory's network discovery feature to find and add the domain-joined computer
-  - If available, use the prebuilt package for faster deployment
-  - Deploy the package to the targeted computers
+  - Access Computer Details: Click on the added computer's name to view detailed inventory information.
+- Running Tools and Commands
+  - Open Tools Menu: Right-click on the computer and navigate to 'Tools'.
+  - Running 'ipconfig':
+      - Select 'Run Command'.
+      - In the command line field, type ipconfig /all and press 'Run'
+      - Review the output for both the domain controller and the added computer   
 
 
 
