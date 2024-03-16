@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/XXlcupg.png"/>
+<img src="https://i.imgur.com/1ufljaP.png"/>
 </p>
 
 This project showcases the installation and utilization of PDQ Inventory in an existing Active Directory domain controller with one added computer. The purpose is to demonstrate the capabilities of PDQ Inventory in managing and monitoring hardware and software assets within a networked environment.
@@ -23,7 +23,7 @@ This project showcases the installation and utilization of PDQ Inventory in an e
 - Microsoft Azure (Virtual Machines: Windows server 2022 and Windows 11 Pro)
 - Active Directory Domain Controller
 - Remote Desktop
-- PDQ Deploy software
+- PDQ Inventory software
 
 <h2>Operating Systems Used </h2>
 
@@ -33,14 +33,13 @@ This project showcases the installation and utilization of PDQ Inventory in an e
 <h2>Steps</h2>
 
 - Configure Active Directory; create a domain controller and add a user server
-- Install PDQ DEPLOY on the domain controller
-- Configure PDQ DEPLOY:
-  - Check the PDQ Deploy Package Library for a prebuilt package
+- Download PDQ Inventory: Download the latest version of PDQ Inventory from the official website.
+- Install PDQ Inventory: Run the installer on the domain controller and follow the installation prompts.
+- Configure Initial Settings: After installation, open PDQ Inventory and configure initial settings such as network discovery to recognize the domain-joined computer
+  - Discover Domain Computers: Use PDQ Inventory's network discovery feature to find and add the domain-joined computer
   - If available, use the prebuilt package for faster deployment
   - Deploy the package to the targeted computers
-- Create a custom deployment package:
-  - Download required software onto the DC server
-  - Check the PDQ Deploy Package Library to select the package and targeted computers, deploy package.
+
 
 
 <p>
