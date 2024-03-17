@@ -48,7 +48,7 @@ This project showcases the installation and utilization of PDQ Inventory in an e
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VGhsyHW.png"/>
 </p>
 <p>
 Configure Active Directory; create a domain controller and add a user server.
@@ -56,7 +56,10 @@ Configure Active Directory; create a domain controller and add a user server.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/liZrZX1.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/5Z9XD9s.png"/>
 </p>
 <p>
 Download and install PDQ Inventory on the domain controller.
