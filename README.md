@@ -67,6 +67,9 @@ Download and install PDQ Inventory on the domain controller.
 <br />
 
 <p>
+<img src="https://i.imgur.com/hHBaWXD.png"/>
+</p>
+<p>
 <img src="https://i.imgur.com/PU401Gy.png"/>
 </p>
 <p>
@@ -103,7 +106,13 @@ Access Computer Details: Click on the added computer's name to view detailed inv
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ik2Rlwp.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/xFpafGx.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/2CJWftm.png"/>
 </p>
 <p>
 Running Tools and Commands: Open Tools Menu: Right-click on the computer and navigate to 'Tools',
