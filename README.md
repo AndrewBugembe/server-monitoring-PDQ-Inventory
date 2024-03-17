@@ -67,9 +67,6 @@ Download and install PDQ Inventory on the domain controller.
 <br />
 
 <p>
-<img src="https://i.imgur.com/hHBaWXD.png"/>
-</p>
-<p>
 <img src="https://i.imgur.com/PU401Gy.png"/>
 </p>
 <p>
@@ -83,6 +80,9 @@ Configure Initial Settings: After installation, open PDQ Inventory and configure
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/hHBaWXD.png"/>
+</p>
 <p>
 <img src="https://i.imgur.com/h08fDJq.png"/>
 </p>
