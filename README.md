@@ -67,15 +67,27 @@ Download and install PDQ Inventory on the domain controller.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PU401Gy.png"/>
 </p>
 <p>
-Configure Initial Settings: After installation, open PDQ Inventory and configure initial settings such as network discovery to recognize the domain-joined computer.
+<img src="https://i.imgur.com/ANpYL1v.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/I0ioLL3.png"/>
+</p>
+<p>
+Configure Initial Settings: After installation, open PDQ Inventory and configure initial settings such as adding a domain admin user.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/h08fDJq.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/5YPpkoT.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/dEgLZ2M.png"/>
 </p>
 <p>
 Discover Domain Computers: Use PDQ Inventory's network discovery feature to find and add the domain-joined computer.
@@ -83,7 +95,7 @@ Discover Domain Computers: Use PDQ Inventory's network discovery feature to find
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T3oet8i.png"/>
 </p>
 <p>
 Access Computer Details: Click on the added computer's name to view detailed inventory information.
