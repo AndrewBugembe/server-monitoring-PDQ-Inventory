@@ -16,7 +16,7 @@ This project showcases the installation and utilization of PDQ Inventory in an e
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to configure and use PDQ INVENTORY to monitor servers(https://youtu.be/LGjsXd10vxc)
+- ### [YouTube: How to configure PDQ INVENTORY to Monitor Servers for system administration(https://youtu.be/PshVUrDVxIE)
 
 <h2>Environments and Technologies Used</h2>
 
